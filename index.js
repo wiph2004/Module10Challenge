@@ -1,5 +1,7 @@
-const INQ = require('./lib/inquire.js');
+const inquirer = require('inquirer');
+
+const INQ = require('./lib/questions.js');
 
 const inq = new INQ();
 
-inquirer.run();
+inq.run();
