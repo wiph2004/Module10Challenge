@@ -31,6 +31,14 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Location
+Video Location:
+
+https://www.loom.com/share/b16f574f55d344afb5edcd0e217aefe3?sid=1da34cd9-4509-4027-8c30-02299fff2250
+
+Image:
+
+![image](https://github.com/wiph2004/Module10Challenge/assets/149805523/9e02929f-e78d-44de-bdaa-d86e85d0bc9f)
+
 
 
 ## Credits
